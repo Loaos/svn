@@ -47,7 +47,9 @@ namespace Pokemon
         }
         public class Lillipup : pokemon
         {
-
+            public Lillipup() : base("Lillipup", 45, 60, 45, 25, 45, 55, "Normal", "Rest, Confide")
+            {
+            }
         }
 
     }
@@ -61,6 +63,12 @@ namespace Pokemon
     {
         static void Main(string[] args)
         {
+            Lillipup lillipup = new Lillipup();
+
+
+
+            lillipup.PrintInfo();
+            Console.WriteLine();
         }
     }
 }
