@@ -1,0 +1,7 @@
+D:\Новая папка\Pokemon\bin\Debug\Pokemon.exe.config
+D:\Новая папка\Pokemon\bin\Debug\Pokemon.exe
+D:\Новая папка\Pokemon\bin\Debug\Pokemon.pdb
+D:\Новая папка\Pokemon\obj\Debug\Pokemon.csproj.AssemblyReference.cache
+D:\Новая папка\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+D:\Новая папка\Pokemon\obj\Debug\Pokemon.exe
+D:\Новая папка\Pokemon\obj\Debug\Pokemon.pdb
